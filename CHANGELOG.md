@@ -2,6 +2,19 @@
 
 所有自动提交的修改记录
 
+## [2026-05-16 22:44:12]
+
+- **提交信息**: 添加 agent_demo 和 open_claw 模块
+- **修改文件**:
+  - agent_demo/.env.example
+  - agent_demo/README.md
+  - agent_demo/requirements.txt
+  - agent_demo/simple_agent.py
+  - agent_demo/simple_agent_demo.py
+  - open_claw/OpenClaw安装指南.md
+  - open_claw/OpenClaw模型配置指南.md
+  - open_claw/OpenClaw配置.md
+
 ## [2026-05-10 19:45:03]
 
 - **提交信息**: 自动提交: 2026-05-10 19:45:03
