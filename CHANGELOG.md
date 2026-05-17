@@ -2,6 +2,17 @@
 
 所有自动提交的修改记录
 
+## [2026-05-17 18:37:31]
+
+- **提交信息**: 自动提交: 2026-05-17 18:37:30
+- **修改文件**:
+  - claude_code/claude_code安装配置.md
+  - claude_code_demo/.claude/settings.local.json
+  - claude_code_demo/app.js
+  - claude_code_demo/index.html
+  - claude_code_demo/style.css
+  - open_claw/OpenClaw配置.md
+
 ## [2026-05-16 22:44:12]
 
 - **提交信息**: 添加 agent_demo 和 open_claw 模块
