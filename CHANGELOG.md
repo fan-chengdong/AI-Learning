@@ -2,6 +2,14 @@
 
 所有自动提交的修改记录
 
+## [2026-05-24 13:05:11]
+
+- **提交信息**: feat: 添加 Claude Code Skills 安装和编写指南
+- **修改文件**:
+  - claude_code/skills安装.md
+  - claude_code/skills编写.md
+  - auto_commit/setup_git_config.bat
+
 ## [2026-05-17 18:37:31]
 
 - **提交信息**: 自动提交: 2026-05-17 18:37:30
